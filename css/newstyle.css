@@ -68,6 +68,8 @@ p.about{
     width: 100%;
     margin-left: 30px;
     margin-right:30px;
+    margin-bottom: 40px
+    box-sizing: border-box;
 }
 .message{
      position:static;
@@ -77,6 +79,8 @@ p.about{
     margin:auto;
     margin-left:20%;
     margin-top: 15px;
+    margin-bottom:40px
+    box-sizing: border-box;
     font: Josefin Sans;
     line-height:2em;
     font-size: 2em;
@@ -85,7 +89,7 @@ p.about{
 }
 .footer{
     float: left;
-    position:fixed;
+    position:sticky;
     bottom:0px;
     margin-top:40px;
     box-sizing: border-box;
