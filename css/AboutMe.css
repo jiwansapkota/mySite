@@ -11,7 +11,7 @@
     box-sizing:border-box;  
 }
 .header{
-    font-size:2em;
+    font-size:4em;
     width: 100%;
     float: right;
     color: #5A6F9B;
@@ -46,7 +46,7 @@ ul.taskBar li:hover{
 .aboutBackground{
     float:left;
     width:100vw;
-    height:200px;
+    height:400px;
     background-image:url(../image/1_JinxMinx.jpg);
     object-fit:scale-down;
   background-position: center bottom;
@@ -55,7 +55,7 @@ ul.taskBar li:hover{
   background-size: cover;
 }
 p.about{
-    font-size: 3em;
+    font-size: 5em;
     margin-top:80px;
     text-align: center;
     box-sizing: border-box;
@@ -79,7 +79,7 @@ p.about{
     margin-top: 15px;
     font: Josefin Sans;
     line-height:2em;
-    font-size: 1.5em;
+    font-size: 2em;
     color: #414A4C;
     min-height:80%;
 }
@@ -87,9 +87,9 @@ p.about{
     float: left;
     position:fixed;
     bottom:0px;
-    margin-top:20px;
+    margin-top:40px;
     box-sizing: border-box;
-    font-size:1.5em;
+    font-size:2em;
     text-align: center;
     width: 100%;
     background-color:white;
